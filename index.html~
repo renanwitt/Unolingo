@@ -1,0 +1,48 @@
+<html>
+<head>
+	<title>Unolingo: Aprenda inglês, espanhol, português, francês e alemão</title>
+	<meta charset="UTF-8"/>
+	<!-- Importação de arquivos CSS -->
+	<link rel="stylesheet" type="text/css" href="css/style.css"/>
+</head>
+<body>
+	<div class="allMenu">
+			<div class="logoMenu">
+				<img src="images/logo.png" alt="">			
+			</div>
+			<div class="login">
+				<button class="registerButton">Registrar-se</button>
+				<button class="loginButton">Entrar</button>			
+			</div>
+	</div>
+
+	<br><br><br><br>	
+	
+	<div class="content">
+		<div class="anuncio">
+			<span class="textoAnuncio">A maneira mais fácil de aprender um novo idioma. Hoje.</span><br><br>
+			<button class="botaoCentral">Aprender agora</button>	
+		</div>
+	</div>
+	
+	<div class="allFooter">
+		<div class="spaceFlag">		
+			<div class="usa">
+				<img width="40" height="40" src="images/united-states.png" alt="Inglês">
+			</div>
+			<div class="germany">
+				<img width="40" height="40" src="images/germany.png" alt="Alemão">
+			</div>
+			<div class="france">
+				<img width="40" height="40" src="images/france.png" alt="Francês">
+			</div>
+			<div class="brazil">
+				<img width="40" height="40" src="images/brazil.png" alt="Português do Brasil">
+			</div>
+			<div class="spain">
+				<img width="40" height="40" src="images/spain.png" alt="Espanhol">			
+			</div>
+		</div>		
+	</div>
+</body>
+</html>
