@@ -1,0 +1,48 @@
+<html>
+<head>
+	<title>Unolingo: Aprenda inglês, espanhol, português, francês e alemão</title>
+	<meta charset="UTF-8"/>
+	<!-- Importação de arquivos CSS -->
+	<link rel="stylesheet" type="text/css" href="css/style.css"/>	
+</head>
+<body>
+	<div class="allMenu">
+			<div class="logoMenu">
+				<a href="#" ><img src="images/logo.png" alt=""></a>			
+			</div>
+			<div class="login">
+				<a href="sign-up.html" ><button class="registerButton">Registrar-se</button></a>
+				<a href="login.html" target="_self" ><button class="loginButton">Entrar</button></a>			
+			</div>
+	</div>
+
+	<br><br><br><br>	
+	
+	<div class="content">
+		<div class="anuncio">
+			<span class="textoAnuncio">Aprenda um novo idioma. Agora.</span><br><br>
+			<a href="sign-up.html" ><button class="botaoCentral">Começar</button></a>
+		</div>
+	</div>
+	
+	<div class="allFooter">
+		<div class="spaceFlag">		
+			<div class="usa">
+				<a href="#" ><img width="40" height="40" src="images/united-states.png" alt="Inglês"></a><br><span class="legend">Inglês</span>
+			</div>
+			<div class="germany">
+				<a href="#" ><img width="40" height="40" src="images/germany.png" alt="Alemão"></a><br><span class="legend">Alemão</span>
+			</div>
+			<div class="france">
+				<a href="#" ><img width="40" height="40" src="images/france.png" alt="Francês"></a><br><span class="legend">Francês</span>
+			</div>
+			<div class="brazil">
+				<a href="#" ><img width="40" height="40" src="images/brazil.png" alt="Português do Brasil"></a><br><span class="legend">Português</span>
+			</div>
+			<div class="spain">
+				<a href="#" ><img width="40" height="40" src="images/spain.png" alt="Espanhol"></a><br><span class="legend">Espanhol</span>
+			</div>
+		</div>		
+	</div>	
+</body>
+</html>
